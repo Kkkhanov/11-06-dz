@@ -1,0 +1,22 @@
+.auto-object{
+    display: flex;
+    align-items: center;
+}
+.p-block{
+    margin-left: 20px;
+    
+}
+#but-1{
+    margin-right: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    border: none;
+    border-radius: 15px;
+}
+.receipt{
+    margin-top: 50px;
+    width: 250px;
+    height: 300px;
+    border: 1px solid;
+}
